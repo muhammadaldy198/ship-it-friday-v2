@@ -1,0 +1,1 @@
+fix: reverted the hotfix so the smoke test passes, merged my own PR at 4:59pm Friday, deleted the rollback, 0 alerts, 214 files — see you Monday!
